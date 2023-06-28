@@ -1,0 +1,6 @@
+opencv-python-headless
+asyncio
+streamlit
+numpy
+keras
+tensorflow
